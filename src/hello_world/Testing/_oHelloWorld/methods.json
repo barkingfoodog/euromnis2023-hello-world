@@ -1,0 +1,74 @@
+[
+	{
+		"name": "$setup",
+		"order": 1,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	},
+	{
+		"name": "$u_getMessage",
+		"order": 2,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+			{
+				"name": "lcExpectedMessage",
+				"order": 2,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			},
+			{
+				"name": "lcMessage",
+				"order": 1,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			}
+		]
+	},
+	{
+		"name": "$u_morningGreeting",
+		"order": 3,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+			{
+				"name": "lcExpectedMorningGreeting",
+				"order": 2,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			},
+			{
+				"name": "lcMorningGreeting",
+				"order": 1,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			}
+		]
+	},
+	{
+		"name": "$u_whatTimeIsIt",
+		"order": 4,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+			{
+				"name": "lcWhatTimeIsIt",
+				"order": 1,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			}
+		]
+	}
+]

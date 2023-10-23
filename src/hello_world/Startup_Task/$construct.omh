@@ -1,0 +1,8 @@
+Do $cinst.$processCLI() Returns lbCLIRun
+If lbCLIRun=kTrue
+	Quit method
+End If
+
+Open trace log
+Send to trace log [loHelloWorld.$morningGreeting()]
+Send to trace log [loHelloWorld.$whatTimeIsIt()]

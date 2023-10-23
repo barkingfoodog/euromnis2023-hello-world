@@ -1,0 +1,6 @@
+Switch pcLanguage
+	Case "French"
+		Quit method con("Bounjour! C'est manifique d'etre ici chez Euromnis cet matin au ",$cinst.$_getTime(),"!")
+	Default
+		Quit method con("Hello world! It's good to be alive and at Euromnis in the morning with ",$cinst.$_getTime(),"!")
+End Switch

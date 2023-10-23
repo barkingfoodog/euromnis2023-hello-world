@@ -1,0 +1,42 @@
+{
+	"classtype": "kTask",
+	"omnisversion": "11.0",
+	"omnisbuild": 110035659,
+	"internalversion": 50,
+	"superclass": "omnistap.kgTAPTask",
+	"tvardefs": [
+
+	],
+	"cvardefs": [
+		{
+			"name": "lcPathToOmnisTAP",
+			"order": 1,
+			"type": "kCharacter",
+			"subtype": "kSimplechar",
+			"sublen": 100000000
+		}
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"canremotedebugwhenlocked": false,
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componentinfo": {
+
+		},
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2017-10-04 22:17:02",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": false,
+		"issupercomponent": false,
+		"moddate": "2023-10-23 21:55:28",
+		"showascheckedout": false,
+		"userinfo": "",
+		"vcsrevision": 0,
+		"version": ""
+	}
+}

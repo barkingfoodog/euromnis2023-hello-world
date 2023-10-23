@@ -1,0 +1,5 @@
+Do $cinst.$_getMessage("English") Returns lcEnglish
+
+Do $cinst.$_getMessage("French") Returns lcFrench
+
+Quit method con(lcEnglish,kCr,lcFrench)
