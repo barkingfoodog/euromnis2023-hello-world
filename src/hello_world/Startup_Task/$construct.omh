@@ -4,5 +4,5 @@ If lbCLIRun=kTrue
 End If
 
 Open trace log
-Send to trace log [loHelloWorld.$morningGreeting()]
+Send to trace log [loHelloWorld.$afternoonGreeting()]
 Send to trace log [loHelloWorld.$whatTimeIsIt()]

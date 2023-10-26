@@ -33,21 +33,21 @@
 		]
 	},
 	{
-		"name": "$u_morningGreeting",
+		"name": "$u_afternoonGreeting",
 		"order": 3,
 		"pvardefs": [
 
 		],
 		"lvardefs": [
 			{
-				"name": "lcExpectedMorningGreeting",
+				"name": "lcExpectedGreeting",
 				"order": 2,
 				"type": "kCharacter",
 				"subtype": "kSimplechar",
 				"sublen": 100000000
 			},
 			{
-				"name": "lcMorningGreeting",
+				"name": "lcGreeting",
 				"order": 1,
 				"type": "kCharacter",
 				"subtype": "kSimplechar",

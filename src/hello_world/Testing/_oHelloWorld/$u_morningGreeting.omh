@@ -1,3 +1,0 @@
-Do iorMock.$morningGreeting() Returns lcMorningGreeting
-Calculate lcExpectedMorningGreeting as con("Hello world! It's good to be alive and at Euromnis in the morning with 45 minutes!",kCr,"Bounjour! C'est manifique d'etre ici chez Euromnis cet matin au 45 minutes!")
-Do ioTAP.$is_char(lcMorningGreeting,lcExpectedMorningGreeting,"We say hello in the morning")
