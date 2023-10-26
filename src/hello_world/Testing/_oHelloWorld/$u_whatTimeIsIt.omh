@@ -1,2 +1,2 @@
 Do iorMock.$whatTimeIsIt() Returns lcWhatTimeIsIt
-Do ioTAP.$is_char(lcWhatTimeIsIt,"It is 3 hours until dinner.")
+Do ioTAP.$is_char(lcWhatTimeIsIt,"It is a bit over 2 hours until dinner.")
